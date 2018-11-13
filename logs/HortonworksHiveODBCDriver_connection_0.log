@@ -1,0 +1,55 @@
+Oct 12 19:33:08.766 INFO  13164 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 19:33:08.783 INFO  13164 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 19:33:08.784 INFO  13164 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 19:33:08.784 INFO  13164 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 19:33:29.815 ERROR 13164 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 19:34:05.232 INFO  14544 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 19:34:05.233 INFO  14544 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 19:34:05.233 INFO  14544 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 19:34:05.233 INFO  14544 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 19:34:26.279 ERROR 14544 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 19:34:56.609 INFO  10848 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 19:34:56.609 INFO  10848 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 19:34:56.609 INFO  10848 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 19:34:56.609 INFO  10848 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 19:35:17.605 ERROR 10848 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:28:25.338 INFO  4172 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 20:28:25.355 INFO  4172 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 20:28:25.356 INFO  4172 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 20:28:25.356 INFO  4172 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 20:28:46.359 ERROR 4172 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:34:52.297 INFO  16924 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 20:34:52.297 INFO  16924 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 20:34:52.297 INFO  16924 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 20:34:52.298 INFO  16924 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 20:35:13.304 ERROR 16924 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 21:48:56.335 INFO  13432 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:48:56.336 INFO  13432 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:48:56.336 INFO  13432 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:48:56.336 INFO  13432 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:49:17.371 ERROR 13432 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 21:53:42.735 INFO  15548 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:53:42.736 INFO  15548 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:53:42.736 INFO  15548 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:53:42.736 INFO  15548 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:54:03.739 ERROR 15548 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 21:55:29.007 INFO  11720 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:55:29.007 INFO  11720 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:55:29.007 INFO  11720 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:55:29.007 INFO  11720 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:55:29.324 ERROR 11720 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: Could not resolve host for client socket..
+Oct 12 21:55:49.935 INFO  2644 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:55:49.936 INFO  2644 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:55:49.936 INFO  2644 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:55:49.936 INFO  2644 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:55:50.043 ERROR 2644 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: Could not resolve host for client socket..
+Oct 12 21:56:00.395 INFO  11480 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:56:00.396 INFO  11480 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:56:00.396 INFO  11480 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:56:00.396 INFO  11480 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:56:00.405 ERROR 11480 Connection::SQLDriverConnectW: [Hortonworks][Hardy] (34) Error from server: Could not resolve host for client socket..
+Oct 12 21:58:08.614 INFO  16732 Connection::SQLGetInfoW: InfoType: SQL_DRIVER_ODBC_VER (77)
+Oct 12 21:58:08.615 INFO  16732 Connection::SQLGetInfoW: InfoType: SQL_ASYNC_DBC_FUNCTIONS (10023)
+Oct 12 21:58:08.615 INFO  16732 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_ANSI_APP (115)
+Oct 12 21:58:08.615 INFO  16732 Connection::SQLSetConnectAttr: Attribute: SQL_ATTR_LOGIN_TIMEOUT (103)
+Oct 12 21:58:09.914 ERROR 16732 Connection::SQLDriverConnectW: [Hortonworks][ThriftExtension] (5) Error occurred while contacting server: No more data to read.. This could be because you are trying to establish a non-SSL connection to a SSL-enabled server.

@@ -1,0 +1,11 @@
+scp -P 2222 drivers.csv root@127.0.0.1:/root/shelly/myhive
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+hive> create database trucks;
+hive> use trucks;
+
+hive> create table drivers(driverId int,name string,ssn bigint,location string,certified string,wageplan string) ROW FORMAT DELIMITED FIELDS TERMINATED BY ','STORED AS TEXTFILE TBLPROPERTIES("skip.header.line.count"="1");
+
+hive> LOAD DATA INPATH '/user/hive/drivers/drivers.csv' overwrite into table trucks.drivers;
+
+
+beeline> !connect jdbc:hive2://127.0.0.1:10000/trucks

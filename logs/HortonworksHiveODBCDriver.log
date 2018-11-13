@@ -1,0 +1,184 @@
+Oct 12 19:08:07.108 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][ThriftExtension] (5) Error occurred while contacting server: Could not refill buffer. This could be because you are trying to establish a non-SSL connection to a SSL-enabled server.
+Oct 12 19:08:25.664 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:09:30.621 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:09:43.372 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:09:51.708 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:11:23.775 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:11:36.270 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:11:43.409 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:11:51.707 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (76) Error connecting to ZooKeeper. Please ensure the ZooKeeper host(s) and other connection information are configured correctly.
+Oct 12 19:19:58.026 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][ThriftExtension] (5) Error occurred while contacting server: Could not refill buffer. This could be because you are trying to establish a non-SSL connection to a SSL-enabled server.
+Oct 12 19:20:52.316 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: SSL_connect: unknown protocol.
+Oct 12 19:21:04.828 WARN  1112 DSIMessageSource::GetParameterizedMessage: The parameter with index = 0 has been used multiple times in error                             message [Hortonworks][Hardy] (68)
+.
+Oct 12 19:21:04.828 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (68) Error returned trying to set foodmart as the initial database: No more data to read.; Also tried quoting the database name `foodmart` but the query failed with the following error: No more data to read.
+Oct 12 19:21:25.380 WARN  1112 DSIMessageSource::GetParameterizedMessage: The parameter with index = 0 has been used multiple times in error                             message [Hortonworks][Hardy] (68)
+.
+Oct 12 19:21:25.380 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (68) Error returned trying to set default as the initial database: No more data to read.; Also tried quoting the database name `default` but the query failed with the following error: No more data to read.
+Oct 12 19:22:13.770 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: SSL_connect: unknown protocol.
+Oct 12 19:23:14.252 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: SSL_connect: unknown protocol.
+Oct 12 19:24:16.431 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: SSL_connect: unknown protocol.
+Oct 12 19:27:57.826 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: Could not resolve host for client socket..
+Oct 12 19:29:11.627 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:28:09.813 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:29:28.001 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:29:40.350 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: SSL_connect: unknown protocol.
+Oct 12 20:30:39.011 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 20:34:10.703 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 21:45:12.926 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+Oct 12 21:46:15.442 ERROR 1112 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
+ribute: Setting ODBC version to: 3
+Oct 12 19:33:08.763 INFO  13164 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 19:33:30.054 INFO  13164 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 19:33:30.055 INFO  13164 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 19:34:05.198 INFO  14544 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 19:34:05.198 INFO  14544 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 19:34:05.198 INFO  14544 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 19:34:05.198 INFO  14544 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 19:34:05.198 INFO  14544 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 19:34:05.199 INFO  14544 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 19:34:05.199 INFO  14544 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 19:34:05.199 INFO  14544 Driver::Initialize: Locale name: en_US
+Oct 12 19:34:05.199 INFO  14544 Driver::Initialize: Bitness: 64-bit
+Oct 12 19:34:05.199 INFO  14544 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 19:34:05.230 INFO  14544 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 19:34:05.230 INFO  14544 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 19:34:05.230 INFO  14544 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 19:34:26.280 INFO  14544 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 19:34:56.606 INFO  10848 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 19:34:56.606 INFO  10848 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Locale name: en_US
+Oct 12 19:34:56.606 INFO  10848 Driver::Initialize: Bitness: 64-bit
+Oct 12 19:34:56.606 INFO  10848 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 19:34:56.607 INFO  10848 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 19:34:56.607 INFO  10848 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 19:34:56.607 INFO  10848 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 19:35:17.606 INFO  10848 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 19:35:38.606 INFO  10848 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 20:28:25.330 INFO  4172 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 20:28:25.330 INFO  4172 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 20:28:25.330 INFO  4172 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 20:28:25.330 INFO  4172 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 20:28:25.331 INFO  4172 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 20:28:25.331 INFO  4172 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 20:28:25.331 INFO  4172 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 20:28:25.331 INFO  4172 Driver::Initialize: Locale name: en_US
+Oct 12 20:28:25.331 INFO  4172 Driver::Initialize: Bitness: 64-bit
+Oct 12 20:28:25.331 INFO  4172 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 20:28:25.334 INFO  4172 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 20:28:25.334 INFO  4172 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 20:28:25.334 INFO  4172 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 20:28:46.405 INFO  4172 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 20:28:46.405 INFO  4172 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 20:34:52.293 INFO  16924 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 20:34:52.294 INFO  16924 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Locale name: en_US
+Oct 12 20:34:52.294 INFO  16924 Driver::Initialize: Bitness: 64-bit
+Oct 12 20:34:52.294 INFO  16924 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 20:34:52.295 INFO  16924 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 20:34:52.295 INFO  16924 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 20:34:52.295 INFO  16924 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 20:35:13.305 INFO  16924 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 20:35:34.310 INFO  16924 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 21:48:56.312 INFO  13432 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:48:56.332 INFO  13432 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Locale name: en_US
+Oct 12 21:48:56.332 INFO  13432 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:48:56.332 INFO  13432 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:48:56.333 INFO  13432 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:48:56.333 INFO  13432 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:48:56.333 INFO  13432 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:49:17.490 INFO  13432 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:49:17.490 INFO  13432 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 21:53:42.729 INFO  15548 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:53:42.730 INFO  15548 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Locale name: en_US
+Oct 12 21:53:42.730 INFO  15548 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:53:42.730 INFO  15548 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:53:42.731 INFO  15548 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:53:42.731 INFO  15548 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:53:42.731 INFO  15548 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:54:03.740 INFO  15548 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:54:24.843 INFO  15548 CInterface::SQLFreeHandle: Freeing environment handle.
+) Error from server: connect() failed: errno = 10060.
+Oct 12 21:55:29.003 INFO  11720 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:55:29.004 INFO  11720 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Locale name: en_US
+Oct 12 21:55:29.004 INFO  11720 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:55:29.004 INFO  11720 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:55:29.004 INFO  11720 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:55:29.004 INFO  11720 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:55:29.005 INFO  11720 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:55:29.325 INFO  11720 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:55:29.325 INFO  11720 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 21:55:49.931 INFO  2644 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:55:49.931 INFO  2644 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:55:49.931 INFO  2644 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:55:49.931 INFO  2644 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:55:49.931 INFO  2644 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:55:49.932 INFO  2644 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:55:49.932 INFO  2644 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:55:49.932 INFO  2644 Driver::Initialize: Locale name: en_US
+Oct 12 21:55:49.932 INFO  2644 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:55:49.932 INFO  2644 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:55:49.932 INFO  2644 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:55:49.932 INFO  2644 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:55:49.933 INFO  2644 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:55:50.044 INFO  2644 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:55:50.045 INFO  2644 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 21:56:00.390 INFO  11480 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:56:00.391 INFO  11480 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Locale name: en_US
+Oct 12 21:56:00.391 INFO  11480 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:56:00.391 INFO  11480 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:56:00.392 INFO  11480 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:56:00.392 INFO  11480 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:56:00.392 INFO  11480 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:56:00.405 INFO  11480 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:56:00.406 INFO  11480 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 12 21:58:08.609 INFO  16732 Driver::LogVersions: SDK Version: 09.05.19.1033
+Oct 12 21:58:08.609 INFO  16732 Driver::LogVersions: DSII Version: 2.1.16.1023
+Oct 12 21:58:08.609 INFO  16732 Driver::Initialize: Database CHAR Encoding: UTF-8
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: Database WCHAR Encoding: UTF-8
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: ANSI CHAR Encoding: ibm-5348
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: Driver Manager WCHAR Encoding: UTF-16LE
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: Detected Driver Manager: Windows, Unknown
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: Locale name: en_US
+Oct 12 21:58:08.610 INFO  16732 Driver::Initialize: Bitness: 64-bit
+Oct 12 21:58:08.610 INFO  16732 CInterface::SQLAllocHandle: Allocating environment handle.
+Oct 12 21:58:08.611 INFO  16732 Environment::SQLSetEnvAttr: Attribute: SQL_ATTR_ODBC_VERSION (200)
+Oct 12 21:58:08.611 INFO  16732 EnvironmentAttributes::SetAttribute: Setting ODBC version to: 3
+Oct 12 21:58:08.611 INFO  16732 CInterface::SQLAllocHandle: Allocating connection handle.
+Oct 12 21:58:09.934 INFO  16732 CInterface::SQLFreeHandle: Freeing connection handle.
+Oct 12 21:58:09.940 INFO  16732 CInterface::SQLFreeHandle: Freeing environment handle.
+Oct 16 13:13:20.335 ERROR 7988 DSTestResultDialog::Initialize: [Hortonworks][Hardy] (34) Error from server: connect() failed: errno = 10060.
